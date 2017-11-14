@@ -1,0 +1,11 @@
+Unilasalle - RJ  Sistemas de Informação
+Nome : Daniel Guimarães Faria 0050010533
+Matéria : Laboratório de S.O
+Professor : Alex Salgado
+Semestre : 2º de 2017
+
+Faça um script (backup.sh) para mover um arquivo passado como parãmetro
+para pasta correta de acordo com o número de linhas.
+
+Se o número de linhas for menor que 100, deve ser colocado na pasta "pequeno"
+Se o número de linhas for menor que 500, deve ser colocado na pasta "grande"
